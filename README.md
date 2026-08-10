@@ -4,6 +4,8 @@
 
 A Resource Pack that re-skins Minecraft Creepers to appear as Terrorists.
 
+Compatible with Minecraft 1.20.1 and above (pack_format 15).
+
 ## Usage
 
 This pack should not require any special installation- just [load the resource pack](https://minecraft.gamepedia.com/Tutorials/Loading_a_resource_pack) and it should load immediately.
