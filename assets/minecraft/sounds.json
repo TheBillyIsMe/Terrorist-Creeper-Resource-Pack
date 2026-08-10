@@ -1,0 +1,7 @@
+{
+  "entity.creeper.primed": {
+    "sounds": [
+      { "name": "creeper/primed" }
+    ]
+  }
+}
